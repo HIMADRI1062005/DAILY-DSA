@@ -1,4 +1,7 @@
-public class reversedigits {
+ // Reverse Digits //gfg
+
+ 
+ public class reversedigits {
 
        static int reverseDigits( int num){ // method 
         int revDigit =0;
