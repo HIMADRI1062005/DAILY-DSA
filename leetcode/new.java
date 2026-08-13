@@ -1,5 +1,6 @@
-package leetcode;
+public package leetcode;
 
-public class new {
+class new {
+
     
 }
